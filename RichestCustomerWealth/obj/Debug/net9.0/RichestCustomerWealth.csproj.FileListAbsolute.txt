@@ -1,0 +1,14 @@
+c:\Projects\.net\LeetCode\RichestCustomerWealth\bin\Debug\net9.0\RichestCustomerWealth.exe
+c:\Projects\.net\LeetCode\RichestCustomerWealth\bin\Debug\net9.0\RichestCustomerWealth.deps.json
+c:\Projects\.net\LeetCode\RichestCustomerWealth\bin\Debug\net9.0\RichestCustomerWealth.runtimeconfig.json
+c:\Projects\.net\LeetCode\RichestCustomerWealth\bin\Debug\net9.0\RichestCustomerWealth.dll
+c:\Projects\.net\LeetCode\RichestCustomerWealth\bin\Debug\net9.0\RichestCustomerWealth.pdb
+c:\Projects\.net\LeetCode\RichestCustomerWealth\obj\Debug\net9.0\RichestCustomerWealth.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\.net\LeetCode\RichestCustomerWealth\obj\Debug\net9.0\RichestCustomerWealth.AssemblyInfoInputs.cache
+c:\Projects\.net\LeetCode\RichestCustomerWealth\obj\Debug\net9.0\RichestCustomerWealth.AssemblyInfo.cs
+c:\Projects\.net\LeetCode\RichestCustomerWealth\obj\Debug\net9.0\RichestCustomerWealth.csproj.CoreCompileInputs.cache
+c:\Projects\.net\LeetCode\RichestCustomerWealth\obj\Debug\net9.0\RichestCustomerWealth.dll
+c:\Projects\.net\LeetCode\RichestCustomerWealth\obj\Debug\net9.0\refint\RichestCustomerWealth.dll
+c:\Projects\.net\LeetCode\RichestCustomerWealth\obj\Debug\net9.0\RichestCustomerWealth.pdb
+c:\Projects\.net\LeetCode\RichestCustomerWealth\obj\Debug\net9.0\RichestCustomerWealth.genruntimeconfig.cache
+c:\Projects\.net\LeetCode\RichestCustomerWealth\obj\Debug\net9.0\ref\RichestCustomerWealth.dll

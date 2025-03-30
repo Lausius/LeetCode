@@ -1,0 +1,14 @@
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\bin\Debug\net9.0\SquaresOfSortedArray.exe
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\bin\Debug\net9.0\SquaresOfSortedArray.deps.json
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\bin\Debug\net9.0\SquaresOfSortedArray.runtimeconfig.json
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\bin\Debug\net9.0\SquaresOfSortedArray.dll
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\bin\Debug\net9.0\SquaresOfSortedArray.pdb
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\obj\Debug\net9.0\SquaresOfSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\obj\Debug\net9.0\SquaresOfSortedArray.AssemblyInfoInputs.cache
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\obj\Debug\net9.0\SquaresOfSortedArray.AssemblyInfo.cs
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\obj\Debug\net9.0\SquaresOfSortedArray.csproj.CoreCompileInputs.cache
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\obj\Debug\net9.0\SquaresOfSortedArray.dll
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\obj\Debug\net9.0\refint\SquaresOfSortedArray.dll
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\obj\Debug\net9.0\SquaresOfSortedArray.pdb
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\obj\Debug\net9.0\SquaresOfSortedArray.genruntimeconfig.cache
+c:\Projects\.net\LeetCode\SquaresOfSortedArray\obj\Debug\net9.0\ref\SquaresOfSortedArray.dll

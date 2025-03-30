@@ -1,0 +1,14 @@
+c:\Projects\.net\LeetCode\SumOf1dArray\bin\Debug\net9.0\SumOf1dArray.exe
+c:\Projects\.net\LeetCode\SumOf1dArray\bin\Debug\net9.0\SumOf1dArray.deps.json
+c:\Projects\.net\LeetCode\SumOf1dArray\bin\Debug\net9.0\SumOf1dArray.runtimeconfig.json
+c:\Projects\.net\LeetCode\SumOf1dArray\bin\Debug\net9.0\SumOf1dArray.dll
+c:\Projects\.net\LeetCode\SumOf1dArray\bin\Debug\net9.0\SumOf1dArray.pdb
+c:\Projects\.net\LeetCode\SumOf1dArray\obj\Debug\net9.0\SumOf1dArray.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\.net\LeetCode\SumOf1dArray\obj\Debug\net9.0\SumOf1dArray.AssemblyInfoInputs.cache
+c:\Projects\.net\LeetCode\SumOf1dArray\obj\Debug\net9.0\SumOf1dArray.AssemblyInfo.cs
+c:\Projects\.net\LeetCode\SumOf1dArray\obj\Debug\net9.0\SumOf1dArray.csproj.CoreCompileInputs.cache
+c:\Projects\.net\LeetCode\SumOf1dArray\obj\Debug\net9.0\SumOf1dArray.dll
+c:\Projects\.net\LeetCode\SumOf1dArray\obj\Debug\net9.0\refint\SumOf1dArray.dll
+c:\Projects\.net\LeetCode\SumOf1dArray\obj\Debug\net9.0\SumOf1dArray.pdb
+c:\Projects\.net\LeetCode\SumOf1dArray\obj\Debug\net9.0\SumOf1dArray.genruntimeconfig.cache
+c:\Projects\.net\LeetCode\SumOf1dArray\obj\Debug\net9.0\ref\SumOf1dArray.dll

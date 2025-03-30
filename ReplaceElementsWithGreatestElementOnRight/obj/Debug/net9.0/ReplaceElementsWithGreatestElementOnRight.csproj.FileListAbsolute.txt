@@ -1,0 +1,14 @@
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\bin\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.exe
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\bin\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.deps.json
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\bin\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.runtimeconfig.json
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\bin\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.dll
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\bin\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.pdb
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\obj\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\obj\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.AssemblyInfoInputs.cache
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\obj\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.AssemblyInfo.cs
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\obj\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.csproj.CoreCompileInputs.cache
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\obj\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.dll
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\obj\Debug\net9.0\refint\ReplaceElementsWithGreatestElementOnRight.dll
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\obj\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.pdb
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\obj\Debug\net9.0\ReplaceElementsWithGreatestElementOnRight.genruntimeconfig.cache
+c:\Projects\.net\LeetCode\ReplaceElementsWithGreatestElementOnRight\obj\Debug\net9.0\ref\ReplaceElementsWithGreatestElementOnRight.dll
