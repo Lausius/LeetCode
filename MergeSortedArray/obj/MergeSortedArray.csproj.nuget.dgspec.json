@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\.net\\LeetCode\\MergeSortedArray\\MergeSortedArray.csproj": {}
+    "c:\\Projects\\.net\\LeetCode\\MergeSortedArray\\MergeSortedArray.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\.net\\LeetCode\\MergeSortedArray\\MergeSortedArray.csproj": {
+    "c:\\Projects\\.net\\LeetCode\\MergeSortedArray\\MergeSortedArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\.net\\LeetCode\\MergeSortedArray\\MergeSortedArray.csproj",
+        "projectUniqueName": "c:\\Projects\\.net\\LeetCode\\MergeSortedArray\\MergeSortedArray.csproj",
         "projectName": "MergeSortedArray",
-        "projectPath": "C:\\Projects\\.net\\LeetCode\\MergeSortedArray\\MergeSortedArray.csproj",
+        "projectPath": "c:\\Projects\\.net\\LeetCode\\MergeSortedArray\\MergeSortedArray.csproj",
         "packagesPath": "C:\\Users\\skink\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\.net\\LeetCode\\MergeSortedArray\\obj\\",
+        "outputPath": "c:\\Projects\\.net\\LeetCode\\MergeSortedArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
